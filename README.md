@@ -1,2 +1,2 @@
 # CLI
-Ruby Final Progect CLI Gem Cocktail DB
+Ruby Flatiron CLI Project utilizing COVID-19-Open API.
